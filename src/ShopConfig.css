@@ -1,0 +1,21 @@
+
+
+.col8-section1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+    background-color: #ceeab9;
+    text-align: center;
+    padding-left:15rem;
+}
+
+.col8-section2 {
+    padding: 2%;
+}
+
+.section2-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+}

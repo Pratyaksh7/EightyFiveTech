@@ -1,0 +1,51 @@
+.heading {
+    background-color: #fafafa;
+    padding: 2%;
+}
+.sections {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 500px;
+    border: 1px rgb(204, 196, 196) solid;
+    border-radius: 10px;
+}
+
+.credits {
+    background-color: #f2f7fd;
+}
+.credits, .last-payment-made, .my-details {
+    margin:2%;
+}
+.last-payment-made .sections {
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+}
+
+.my-details .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 500px;
+}
+
+.header-sections {
+    max-width: 500px;
+    border: 1px rgb(204, 196, 196) solid;
+    border-radius: 10px;
+    padding: 1%;
+}
+.card-detailss {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    /* align-items: center; */
+}
+
+.cd1, .cd2 {
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

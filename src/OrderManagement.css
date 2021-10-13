@@ -1,0 +1,19 @@
+.order-container {
+    margin-top: 20px;
+}
+.order-section1 {
+    text-align: center;
+}
+
+.text-with-dropdown {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2%;
+    /* background-color:aqua ; */
+    max-width: 580px !important;
+}
+
+.order-section2 {
+    padding: 2%;
+}
